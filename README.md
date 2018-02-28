@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # zzz-graduation-design
 
 > graduatin design for zhaozizhang, information security / 2014 / AHU
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# graduation-design-express
+毕设前端代码
+>>>>>>> fc924fb4c54d7c6527343c77d2b55100c29017e8
